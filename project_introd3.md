@@ -1,1 +1,3 @@
-sponsor information
+sponsor information：
+  person1
+  person2
